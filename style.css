@@ -147,8 +147,8 @@ main {
     min-width: 235px;
     max-width: 500px;
     height: 360px;
-    margin: 0 40px 0;
-    margin-left: 44px;
+    margin: 0 62px 0;
+    margin-left: 68px;
     font-family: "inter", sans-serif;
 }
 .main-currency-table .currency-table--title {
@@ -238,7 +238,7 @@ main {
     max-width: 500px;
     height: 360px;
     margin: 0 auto;
-    margin-right: 44px;
+    margin-right: 68px;
     font-family: "inter", sans-serif;
 }
 .main-currency-table-2 .currency-table--title-2 {
@@ -476,8 +476,8 @@ main {
     max-width: 300px;
     height: 250px;
     margin: 50px 1px 0;
-    margin-left: 65px;
-    margin-right: 65px;
+    margin-left: 90px;
+    margin-right: 90px;
     padding: 0 15px;
     background-color: var(--just-white);
     border-radius: 15px;
